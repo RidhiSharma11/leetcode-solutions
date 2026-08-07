@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -17,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
