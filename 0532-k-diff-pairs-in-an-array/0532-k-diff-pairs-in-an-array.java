@@ -22,7 +22,7 @@ class Solution {
                 while (j < nums.length && nums[j] == nums[j - 1]) {
                     j++;
                 }
-            }
+             }
         }
         return count;
     }
