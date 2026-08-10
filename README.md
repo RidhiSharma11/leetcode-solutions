@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0860-lemonade-change](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
