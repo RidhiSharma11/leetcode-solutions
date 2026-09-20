@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0135-candy) |
