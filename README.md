@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0860-lemonade-change](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
 |  |
 | ------- |
@@ -155,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
