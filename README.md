@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-lemonade-change](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
