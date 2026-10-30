@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -171,5 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
