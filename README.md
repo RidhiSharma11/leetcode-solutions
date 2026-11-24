@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0039-combination-sum) |
 ## Graph Coloring
 |  |
 | ------- |
