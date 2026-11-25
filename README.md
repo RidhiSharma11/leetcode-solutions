@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0134-gas-station) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0078-subsets) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/RidhiSharma11/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
