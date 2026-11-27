@@ -7,7 +7,9 @@ class Solution {
         return ans;
     }
     public void findSub(int idx,int[] nums,List<List<Integer>>ans,List<Integer>list){
-        ans.add(new ArrayList<>(list));
+  
+            ans.add(new ArrayList<>(list));
+
         for(int i=idx;i<nums.length;i++){
             if(i>idx && nums[i]==nums[i-1]){
                 continue;
